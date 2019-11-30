@@ -12,5 +12,5 @@ A tool for printing out Host information.
     www.indstate.edu
   Host type: IPv4
   Addresses:
-    139.102.15.65```
+    139.102.15.65
  
